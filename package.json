@@ -1,0 +1,30 @@
+{
+  "name": "dednet_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dslpdeveloper/dednet_server.git"
+  },
+  "author": "cybersoftw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dslpdeveloper/dednet_server/issues"
+  },
+  "homepage": "https://github.com/dslpdeveloper/dednet_server#readme",
+  "dependencies": {
+    "lerp": "^1.0.3",
+    "mysql": "^2.18.1",
+    "watch": "^1.0.2",
+    "webhook-discord": "^3.7.8",
+    "webpack": "^5.93.0"
+  },
+  "devDependencies": {
+    "@types/ragemp-c": "https://github.com/CocaColaBear/types-ragemp-c/tarball/master",
+    "@types/ragemp-s": "https://github.com/CocaColaBear/types-ragemp-s/tarball/master"
+  }
+}
